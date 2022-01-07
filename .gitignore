@@ -3,8 +3,6 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
-appsettings.json
-
 # User-specific files
 *.rsuser
 *.suo
@@ -14,6 +12,10 @@ appsettings.json
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
+
+# custom
+
+appsettings.json
 
 # Mono auto generated files
 mono_crash.*
